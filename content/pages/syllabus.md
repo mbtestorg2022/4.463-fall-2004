@@ -38,10 +38,40 @@ Grading
 
 Grades are calculated as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 50 |
-| Quizzes | 50   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 No Midterm, no Final Exam.
 
